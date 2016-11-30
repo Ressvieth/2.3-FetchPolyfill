@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 50px auto;
+}
+
+.heading {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #A4D0FE;
+
+    font-size: 18px;
+    color: #313C4C;
+}
+
+#button {
+    padding: 10px 20px 8px 20px;
+    border: none;
+    background: #89D834;
+
+    cursor: pointer;
+
+    font: 16px/1 Helvetica, Arial, sans-serif;
+}
+
+#output {
+    padding: 20px;
+    margin-top: 20px;
+    background: #E2E2E2;
+
+    font: 14px 'Courier New', monospace;
+}
